@@ -1,1 +1,2 @@
-# PS_python
+# Problem solving algorithm codes
+- Language: python3
